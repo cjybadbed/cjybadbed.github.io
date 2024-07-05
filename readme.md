@@ -1,1 +1,1 @@
-[Language Notes](../LanguageNotes/readme.md)
+[Language Notes](../LanguageNotes/)
